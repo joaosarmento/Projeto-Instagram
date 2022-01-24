@@ -306,6 +306,8 @@ body{
     width: 293px;
     position: fixed;
     right: calc(50vw - 942px/2);
+    top: 111px;
+    z-index: 1;
 }
 
 .side-bar img:hover{
